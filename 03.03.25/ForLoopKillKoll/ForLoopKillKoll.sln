@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopKillKoll", "ForLoopKillKoll\ForLoopKillKoll.csproj", "{21BF788D-6259-4493-B40A-DB633233CBFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoop", "..\ForLoop\ForLoop\ForLoop.csproj", "{9A312513-56BF-483F-BC93-30022F08985C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21BF788D-6259-4493-B40A-DB633233CBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BF788D-6259-4493-B40A-DB633233CBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BF788D-6259-4493-B40A-DB633233CBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BF788D-6259-4493-B40A-DB633233CBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A312513-56BF-483F-BC93-30022F08985C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A312513-56BF-483F-BC93-30022F08985C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A312513-56BF-483F-BC93-30022F08985C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A312513-56BF-483F-BC93-30022F08985C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DED7F4B-A244-438A-8BC2-D270AEB21AF0}
+	EndGlobalSection
+EndGlobal
